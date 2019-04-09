@@ -20,3 +20,21 @@
         * you can use more query for you graph
         
     * Dashbard
+* [Alerting](http://docs.grafana.org/alerting/notifications/)
+    * suport for slack dingtaik mail telgram ...
+
+#### plugins
+* plugins
+    * zabix
+    * ...
+#### api
+* [Data source api](http://docs.grafana.org/http_api/data_source/)
+    * Get all dataources by dashboard id, name,
+    * create a dashboard
+    * update and delete the dataSource or dashboard name ,id
+    
+* permission
+    * permission for user
+    * permission for api
+    
+* [snapshot api](http://docs.grafana.org/http_api/snapshot/)
