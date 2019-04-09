@@ -24,9 +24,13 @@
 * [Alerting](http://docs.grafana.org/alerting/notifications/)
     * suport for slack dingtaik mail telgram ...
 
-#### plugins
-* plugins
+#### [plugins](https://grafana.com/plugins?type=panel)
+* panel
+    * pie ZChart
+    ...
+* Datasource
     * zabix
+    
     * ...
 #### api
 * [Data source api](http://docs.grafana.org/http_api/data_source/)
