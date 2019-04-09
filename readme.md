@@ -43,3 +43,8 @@
     * permission for api
     
 * [snapshot api](http://docs.grafana.org/http_api/snapshot/)
+
+
+#### Ref
+
+* [Grafana使用](https://kiswo.com/article/1021)
