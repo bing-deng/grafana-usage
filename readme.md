@@ -48,3 +48,4 @@
 #### Ref
 
 * [Grafana使用](https://kiswo.com/article/1021)
+* [prometheus-book](https://yunlzheng.gitbook.io/prometheus-book/parti-prometheus-ji-chu/quickstart)
