@@ -2,6 +2,7 @@
 
 ###### BaseInfo
 * [live demo](https://play.grafana.org/) 
+* [dashbaord with datasource](https://grafana.com/dashboards)
     
 * [how to install on your servrer](http://docs.grafana.org/)
 * basic concepts
